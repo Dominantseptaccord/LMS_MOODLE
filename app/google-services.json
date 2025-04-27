@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358536430460",
+    "project_id": "aitu-c6f5f",
+    "storage_bucket": "aitu-c6f5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358536430460:android:965c073ccb07012382daf9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZUf9cvCt9QksLyw64PL0a6NU7A6W7a0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
